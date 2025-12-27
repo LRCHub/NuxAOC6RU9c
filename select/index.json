@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "All Eyes On Me",
+  "base_artist": "JISOO",
+  "createdAt": "2025-12-27T15:38:40.694416Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Eyes on Me",
+      "artist": "OR3O",
+      "has_synced": true,
+      "path": "select/01_All_Eyes_on_Me_OR3O.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "JISOO",
+      "has_synced": true,
+      "path": "select/02_All_Eyes_On_Me_JISOO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "NANO",
+      "has_synced": false,
+      "path": "select/03_All_Eyes_On_Me_NANO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/04_All_Eyes_On_Me_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "SCH",
+      "has_synced": true,
+      "path": "select/05_All_Eyes_On_Me_SCH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All eyes on me",
+      "artist": "Werenoi",
+      "has_synced": true,
+      "path": "select/06_All_eyes_on_me_Werenoi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "JISOO",
+      "has_synced": true,
+      "path": "select/07_All_Eyes_On_Me_JISOO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "Walid",
+      "has_synced": true,
+      "path": "select/08_All_Eyes_On_Me_Walid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Eyes on Me",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_All_Eyes_on_Me_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ALL EYES ON ME",
+      "artist": "RICTA",
+      "has_synced": false,
+      "path": "select/10_ALL_EYES_ON_ME_RICTA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "JISOO",
+      "has_synced": false,
+      "path": "select/11_All_Eyes_On_Me_JISOO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "Solitude",
+      "has_synced": true,
+      "path": "select/12_All_Eyes_On_Me_Solitude.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/13_All_Eyes_On_Me_nano.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "Hoya",
+      "has_synced": false,
+      "path": "select/14_All_Eyes_On_Me_Hoya.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All eyes on me",
+      "artist": "Werenoi",
+      "has_synced": true,
+      "path": "select/15_All_eyes_on_me_Werenoi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "JISOO",
+      "has_synced": true,
+      "path": "select/16_All_Eyes_On_Me_JISOO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Eyes On Me",
+      "artist": "AKA",
+      "has_synced": true,
+      "path": "select/17_All_Eyes_On_Me_AKA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Eyes On Me",
+      "artist": "JISOO",
+      "has_synced": false,
+      "path": "select/pl_01_All_Eyes_On_Me_JISOO.txt"
+    }
+  ]
+}
